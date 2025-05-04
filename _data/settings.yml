@@ -12,8 +12,8 @@ menu:
 
 
 courses:
-# - {name: 'Discrete Math (TA) (link to Gil Cohen's site, Hebrew)', url: 'https://www.gilcohen.org/bdida'}
-- {name: 'Discrete Math (TA)', url: 'https://www.gilcohen.org/bdida'}
+- {name: "Discrete Math (TA) (link to Gil Cohen's site, Hebrew)", url: 'https://www.gilcohen.org/bdida'}
+# - {name: 'Discrete Math (TA)', url: 'https://www.gilcohen.org/bdida'}
 
 social:
 - {icon: 'github', link: 'https://github.com/yoavGaltzur'}
