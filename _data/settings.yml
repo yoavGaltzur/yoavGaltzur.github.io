@@ -24,3 +24,6 @@ social:
 contacts:
 - {name: 'Yoav Gal-Tzur', title: 'PhD Student', department: 'Computer Science', institution: 'Tel-Aviv University', email: 'yoavgaltzur@mail.tau.ac.il', image: 'assets/img/contact.jpg'}
 # - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+
+talks:
+- {name: "Fair Division via Resource Augmentation at the Israeli AGT Day 2025" ,url: "https://www.youtube.com/watch?v=Qa0_j70uVYM"}
