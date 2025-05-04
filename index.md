@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I am a PhD student in Computer Science Department at Tel-Aviv University, advised by <a href="https://www.mfeldman.sites.tau.ac.il/">Prof. Michal Feldman</a></p>.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+My main interests are subject in the intersection of Economics and Computer Science (AKA AGT, or EconCS), where my main focus is on algorithmic contracts design and fair division.
