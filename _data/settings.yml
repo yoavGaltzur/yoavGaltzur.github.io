@@ -21,9 +21,15 @@ social:
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/yoav-galtzur/'}
 
-contacts:
-- {name: 'Yoav Gal-Tzur', title: 'PhD Student', department: 'Computer Science', institution: 'Tel-Aviv University', email: 'yoavgaltzur@mail.tau.ac.il', image: 'assets/img/contact.jpg'}
+# contacts:
+# - {name: 'Yoav Gal-Tzur', title: 'PhD Student', department: 'Computer Science', institution: 'Tel-Aviv University', email: 'yoavgaltzur@mail.tau.ac.il', image: 'assets/img/contact.jpg'}
 # - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
 
 talks:
 - {name: "Fair Division via Resource Augmentation at the Israeli AGT Day 2025", url: "https://www.youtube.com/watch?v=Qa0_j70uVYM"}
+
+publications:
+- {name: "Combinatorial Contracts Beyond Gross Substitutes", url: "https://epubs.siam.org/doi/abs/10.1137/1.9781611977912.5", coauthors: "Paul Duetting and Michal Feldman", venue: "SODA 2024"}
+- {name: "The Query Complexity of Contracts", url: "https://arxiv.org/abs/2403.09794", coauthors: "Paul Dütting, Michal Feldman and Aviad Rubinstein", venue: "Under Submission"}
+- {name: "Fair Division via Resource Augmentation", url: "https://arxiv.org/abs/2502.09377", coauthors: "Hannaneh Akrami, Alon Eden, Michal Feldman and Amos Fiat", venue: "Under Submission"}
+- {name: "Budget-Feasible Contracts", url: "https://arxiv.org/abs/2504.01773", coauthors: "Michal Feldman, Tomasz Ponitka and Maya Schlesinger", venue: "Under Submission"}
