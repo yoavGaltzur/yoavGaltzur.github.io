@@ -3,10 +3,10 @@ layout: home
 title: "Home"
 ---
 
-I am a PhD student in Computer Science Department at Tel-Aviv University, advised by <a href="https://www.mfeldman.sites.tau.ac.il/">Prof. Michal Feldman.</a>
+I am a PhD student in the Computer Science Department at Tel Aviv University, where I am advised by <a href="https://www.mfeldman.sites.tau.ac.il/">Prof. Michal Feldman</a>.
 
-My main interests are subject in the intersection of Economics and Computer Science (AKA EconCS, or AGT), where my main focus is on algorithmic contracts design and fair division.
+My research lies at the intersection of Economics and Computer Science (commonly known as EconCS or Algorithmic Game Theory), with a focus on algorithmic contract design and fair division.
 
-Here is a link to my <a href="/Resume_may_25.pdf">CV</a> (updated May 2025).
+You can find my <a href="/Resume_may_25.pdf">CV here</a> (updated May 2025).
 
-Email me at yoavgaltzur [at] mail.tau.ac.il.
+Feel free to reach out: yoavgaltzur [at] mail.tau.ac.il.
