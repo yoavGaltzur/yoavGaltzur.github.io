@@ -16,8 +16,7 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications4</h3>
       {% for item in site.data.settings.publications %}
-      
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <a href="{{ item.url }}">{{ item.name }}</a>
         {{ item.coauthors }}. ({{ item.venue }})
       {% endfor %}
   </div>
