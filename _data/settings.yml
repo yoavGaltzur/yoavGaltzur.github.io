@@ -22,9 +22,9 @@ publications:
 - {name: "Budget-Feasible Contracts", url: "https://arxiv.org/abs/2504.01773", coauthors: "Michal Feldman, Tomasz Ponitka and Maya Schlesinger", venue: "under submission"}
 
 updates:
-- {content: "Our paper 'Combinatorial Contracts Beyond Gross Substitutes' was accepted to SODA 2024!", date: "October 2023"}
-- {content: "A new arXiv upload: 'The Query Complexity of Contracts'", date: "March 2024"}
-- {content: "A new arXiv upload: 'Fair Division via Resource Augmentation'", date: "February 2025"}
-- {content: "I gave a talk at the Israeli AGT Day", date: "March 2025"}
 - {content: "A new arXiv upload: 'Budget-Feasible Contracts'", date: "April 2025"}
+- {content: "I gave a talk at the Israeli AGT Day", date: "March 2025"}
+- {content: "A new arXiv upload: 'Fair Division via Resource Augmentation'", date: "February 2025"}
+- {content: "A new arXiv upload: 'The Query Complexity of Contracts'", date: "March 2024"}
+- {content: "Our paper 'Combinatorial Contracts Beyond Gross Substitutes' was accepted to SODA 2024!", date: "October 2023"}
 
