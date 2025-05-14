@@ -16,8 +16,8 @@ talks:
 - {name: "Fair Division via Resource Augmentation at the Israeli AGT Day 2025", url: "https://www.youtube.com/watch?v=Qa0_j70uVYM"}
 
 publications:
-- {name: "Budget-Feasible Contracts", url: "https://arxiv.org/abs/2504.01773", coauthors: "Michal Feldman, Tomasz Ponitka and Maya Schlesinger", venue: "under submission"}
-- {name: "Fair Division via Resource Augmentation", url: "https://arxiv.org/abs/2502.09377", coauthors: "Hannaneh Akrami, Alon Eden, Michal Feldman and Amos Fiat", venue: "under submission"}
+- {name: "Budget-Feasible Contracts", url: "https://arxiv.org/abs/2504.01773", coauthors: "Michal Feldman, Tomasz Ponitka and Maya Schlesinger", venue: "accepted to EC 2025"}
+- {name: "Fair Division via Resource Augmentation", url: "https://arxiv.org/abs/2502.09377", coauthors: "Hannaneh Akrami, Alon Eden, Michal Feldman and Amos Fiat", venue: "unpublished"}
 - {name: "The Query Complexity of Contracts", url: "https://arxiv.org/abs/2403.09794", coauthors: "Paul Dütting, Michal Feldman and Aviad Rubinstein", venue: "under submission"}
 - {name: "Combinatorial Contracts Beyond Gross Substitutes", url: "https://arxiv.org/abs/2309.10766", coauthors: "Paul Dütting and Michal Feldman", venue: "SODA 2024"}
 
