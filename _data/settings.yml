@@ -22,6 +22,7 @@ publications:
 - {name: "Combinatorial Contracts Beyond Gross Substitutes", url: "https://arxiv.org/abs/2309.10766", coauthors: "Paul Dütting and Michal Feldman", venue: "SODA 2024"}
 
 updates:
+- {content: "Our paper 'Budget-Feasible Contracts' was accepted to EC 2025!", date: "May 2025"}
 - {content: "A new arXiv upload: 'Budget-Feasible Contracts'", date: "April 2025"}
 - {content: "I gave a talk at the Israeli AGT Day", date: "March 2025"}
 - {content: "A new arXiv upload: 'Fair Division via Resource Augmentation'", date: "February 2025"}
