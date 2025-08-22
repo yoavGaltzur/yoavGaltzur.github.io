@@ -17,11 +17,12 @@ talks:
 
 publications:
 - {name: "Budget-Feasible Contracts", url: "https://arxiv.org/abs/2504.01773", coauthors: "Michal Feldman, Tomasz Ponitka and Maya Schlesinger", venue: "accepted to EC 2025"}
-- {name: "Fair Division via Resource Augmentation", url: "https://arxiv.org/abs/2502.09377", coauthors: "Hannaneh Akrami, Alon Eden, Michal Feldman and Amos Fiat", venue: "preprint"}
+- {name: "Fair Division via Resource Augmentation", url: "https://arxiv.org/abs/2502.09377", coauthors: "Hannaneh Akrami, Alon Eden, Michal Feldman and Amos Fiat", venue: "under submission"}
 - {name: "The Query Complexity of Contracts", url: "https://arxiv.org/abs/2403.09794", coauthors: "Paul Dütting, Michal Feldman and Aviad Rubinstein", venue: "under submission"}
 - {name: "Combinatorial Contracts Beyond Gross Substitutes", url: "https://arxiv.org/abs/2309.10766", coauthors: "Paul Dütting and Michal Feldman", venue: "SODA 2024"}
 
 updates:
+- {content: "Very proud to recieve the excellence in teaching award from the Blavatnik School of Computer Science at TAU", date: "July 2025"}
 - {content: "Our paper 'Budget-Feasible Contracts' was accepted to EC 2025!", date: "May 2025"}
 - {content: "A new arXiv upload: 'Budget-Feasible Contracts'", date: "April 2025"}
 - {content: "I gave a talk at the Israeli AGT Day", date: "March 2025"}
