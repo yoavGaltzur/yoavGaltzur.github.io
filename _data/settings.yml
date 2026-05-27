@@ -4,13 +4,15 @@ menu:
 
 courses:
 - {name: "Discrete Math (TA) (link to Gil Cohen's site, Hebrew)", url: 'https://www.gilcohen.org/bdida'}
+- {name: "Tutorial on algorithmic contract Design for teams (EC 2026)", url: 'https://yoavgaltzur.github.io/ec26-contracts-tutorial/'}
 
 social:
 - {icon: 'github', link: 'https://github.com/yoavGaltzur'}
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/yoav-galtzur/'}
+- {icon: 'linkedin', link: 'linkedin.com/in/yoav-galtzur'}
 - {icon: 'dblp', link: "https://dblp.org/pid/357/3063.html"}
+- {icon: 'scholar', link: 'https://scholar.google.com/citations?user=B7B6CxoAAAAJ&hl=en'}
 
 talks:
 - {name: "Fair Division via Resource Augmentation at the Israeli AGT Day 2025", url: "https://www.youtube.com/watch?v=Qa0_j70uVYM"}
