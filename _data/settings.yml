@@ -12,7 +12,7 @@ social:
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/yoav-galtzur'}
 - {icon: 'dblp', link: "https://dblp.org/pid/357/3063.html"}
-- {icon: 'scholar', link: 'https://scholar.google.com/citations?user=B7B6CxoAAAAJ&hl=en'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=B7B6CxoAAAAJ&hl=en'}
 
 talks:
 - {name: "Fair Division via Resource Augmentation at the Israeli AGT Day 2025", url: "https://www.youtube.com/watch?v=Qa0_j70uVYM"}
