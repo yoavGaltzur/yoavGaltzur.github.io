@@ -5,8 +5,10 @@
         {% if item.icon == 'dblp' %}
           <a href="{{ item.link }}" class="ms-3 fs-5"><i class="ai ai-google-scholar-square ai-3x"></i></a>
           <!-- <a href="{{ item.link }}" class="ms-3 fs-5"><img src="/assets/dblp_icon.png" alt="DBLP" style="height: 1em;"></a> -->
-        <!-- {% if item.icon == 'scholar' %}
-          <a href="{{ item.link }}" class="ms-3 fs-5"><img src="/assets/dblp_icon.png" alt="DBLP" style="height: 1em;"></a> -->
+        {% if item.icon == 'scholar' %}
+          <a href="{{ item.link }}" class="ms-3 fs-5"><i class="ai ai-google-scholar-square ai-3x"></i></a>
+        {% if item.icon == 'linkedin' %}
+          <a href="{{ item.link }}" class="ms-3 fs-5"><i class="ai ai-google-scholar-square ai-3x"></i></a>
         {% else %}
           <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
         {% endif %}
