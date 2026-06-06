@@ -3,8 +3,8 @@
     <div class="col-md-6 text-end social-media-icons">
       {% for item in site.data.settings.social %}
         {% if item.icon == 'dblp' %}
-          <a href="{{ item.link }}"><i class="aib ai-google-scholar"></i></a>
-          <!-- <a href="{{ item.link }}" class="ms-3 fs-5"><img src="/assets/dblp_icon.png" alt="DBLP" style="height: 1em;"></a> -->
+          <!-- <a href="{{ item.link }}"><i class="aib ai-google-scholar"></i></a> -->
+          <a href="{{ item.link }}" class="ms-3 fs-5"><img src="/assets/dblp_icon.png" alt="DBLP" style="height: 1em;"></a>
         {% elsif item.icon == 'scholar' %}
         <a href="{{ item.link }}" target="_blank" rel="noopener"><i class="ai ai-google-scholar ai-2x"></i></a>
           <!-- <a href="{{ item.link }}" class="ms-3 fs-5"><i class="ai ai-google-scholar ai-3x"></i></a> -->
