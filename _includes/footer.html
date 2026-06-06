@@ -7,7 +7,8 @@
         {% elsif item.icon == 'google-scholar' %}
           <a href="{{ item.link }}" class="ms-3 fs-5"><img src="/assets/google-scholar.svg" alt="Google Scholar" style="height: 2em;"></a>
         {% else %}
-          <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }} style="height: 2em;""></i></a>
+          <!-- <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a> -->
+          <a href="{{ item.link }}" class="ms-3" style="font-size: 2em;"><i class="fab fa-{{ item.icon }}"></i></a>
         {% endif %}
       {% endfor %}
     </div>
